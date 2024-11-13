@@ -1,16 +1,10 @@
 # booking_hotel_app
 
-A new Flutter project.
+On the 12th day of the 30 Days 30 Apps Challenge, participants will create a Hotel Booking app user interface (UI) using the Flutter framework. This challenge aims to hone skills in building attractive and functional app interfaces, while deepening understanding of Flutter UI components.
 
-## Getting Started
+# Introduction Screens using Flutter
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Demo Video](C:\Users\ilham maulaa\Videos\Captures/to/video.mp4)](https://github.com/user-attachments/assets/319c425e-8210-41ce-80bf-e0ccd09b75e7
+)
