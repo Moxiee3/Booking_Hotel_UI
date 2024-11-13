@@ -1,6 +1,6 @@
 # booking_hotel_app
 
-On the 12th day of the 30 Days 30 Apps Challenge, participants will create a Hotel Booking app user interface (UI) using the Flutter framework. This challenge aims to hone skills in building attractive and functional app interfaces, while deepening understanding of Flutter UI components.
+On the 22th day of the 30 Days 30 Apps Challenge, participants will create a Hotel Booking app user interface (UI) using the Flutter framework. This challenge aims to hone skills in building attractive and functional app interfaces, while deepening understanding of Flutter UI components.
 
 # Introduction Screens using Flutter
 
